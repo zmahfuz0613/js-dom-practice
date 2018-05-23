@@ -7,4 +7,11 @@
 
 // Get the span element using querySelector...
 
-// Select only any link tag(s) *directly inside* of a div (no grandchildren).
+// Get multiple span elements using querySelectorAll
+
+// Select only "a" tags *directly inside* of a div (no grandchildren).
+
+// Select all elements that contain a "data-target" attribute
+
+// Select all elements where the data-target attribute equals "#false"
+
