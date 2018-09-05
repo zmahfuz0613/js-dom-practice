@@ -1,11 +1,11 @@
 
-// Get the element with an ID of 'first' using querySelector...
+// Get the element with an ID of 'first' using querySelector
 
-// Get the elements with a class of 'second' with querySelector...
+// Get the elements with a class of 'second' with querySelector
 
 // Try the above prompt with querySelectorAll. What's the difference between what these two methods return?
 
-// Get the span element using querySelector...
+// Get the span element using querySelector
 
 // Get multiple span elements using querySelectorAll
 
