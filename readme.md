@@ -1,6 +1,6 @@
 # Setup
 * Fork and clone this repo
-* `cd` to cloned directory and open it in your favorite code editor
+* `cd` to cloned directory and open it in your favorite text editor
 * Open the index.html file in your browser.
 * Write your code in the appropriate files, and open your browser console to see the output.
 
